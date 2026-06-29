@@ -19,3 +19,6 @@ El software cuenta con cuatro módulos lógicos principales mapeados con nuestro
 2. **Consulta de Saldo:** Muestra de forma inmediata los fondos disponibles en la cuenta.
 3. **Depósito de Efectivo:** Permite sumar montos positivos al saldo actual.
 4. **Retiro de Efectivo:** Evalúa de forma condicional si existen fondos suficientes antes de realizar el débito y actualizar la cuenta.
+
+## Fecha
+28 Junio de 2026
