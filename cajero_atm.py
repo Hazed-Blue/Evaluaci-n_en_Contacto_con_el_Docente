@@ -31,7 +31,7 @@ def ejecutar_cajero():
         print("\n Cuenta Bloqueada por motivos de seguridad. Acérquese a una ventanilla.")
         return # Termina la ejecución del programa de forma segura
         
-    # --- MENÚ PRINCIPAL Y ESTRUCTURAS REPETITIVAS ---
+    # --- MENÚ PRINCIPAL Y SUS RAMIFICACIONES ---
     while otra_transaccion.upper() == "S":
         print("\n--- MENÚ PRINCIPAL ---")
         print("1. Consultar Saldo")
